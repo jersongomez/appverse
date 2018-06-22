@@ -1,0 +1,22 @@
+{
+  "name": "appverse-db",
+  "version": "1.0.0",
+  "description": "App verse simple IoT - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jersongomez/appverse.git"
+  },
+  "author": "Jerson Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jersongomez/appverse/issues"
+  },
+  "homepage": "https://github.com/jersongomez/appverse#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
